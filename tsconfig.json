@@ -8,6 +8,7 @@
     "module": "ESNext",
     "target": "ESNext",
     "moduleResolution": "Node",
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "types": ["@testing-library/jest-dom", "@testing-library/react"]
   }
 }
